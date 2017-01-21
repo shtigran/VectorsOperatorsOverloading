@@ -1,4 +1,4 @@
-# Operators overloading for Matematical Vectors 
+# Operators Overloading for Matematical Vectors 
 # C#6.0  .NET FRAMEWORK 4.6
 
 This project allow You work with Vector object, for which the basic operators are overloaded.
